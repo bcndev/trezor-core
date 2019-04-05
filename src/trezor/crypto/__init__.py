@@ -2,6 +2,7 @@ from gc import collect
 
 from trezorcrypto import (  # noqa: F401
     aes,
+    bytecoin,
     bip32,
     bip39,
     chacha20poly1305,
